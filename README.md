@@ -17,7 +17,7 @@ This application is designed & coded by <Strong> Saritha Polisetty </Strong>
 
 ## Getting Started
 
-To run the TicTacToe React application
+<p> To run the TicTacToe React application by using </p>
 
 $ npm run start 
 
